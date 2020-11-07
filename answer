@@ -1,0 +1,2 @@
+ Inside the if block
+ Matter.Body.setStatic(packageBody,false)//Using Matter.Body.setStatic(bodyname,true/false)
